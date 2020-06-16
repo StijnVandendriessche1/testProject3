@@ -1,0 +1,21 @@
+{
+  "InfluxDB_Token_Pi": "U62kmgryruDRJ7AicbNQX5Y_iHRryjAFuXpIqC59xGi9u_GgxOPVFr8mM20JGrzyPdP8b3c97ZbOaeOa7yJHDA==",
+  "InfluxDB_Token_Cloud": "NXt5qeMBAmdHI4VVpxXJRn-3YET-vKAK9_6aIE6l2TaN2FTuZsVfsOk7NyC59ndPPgbHPh8IFFmX6-k7MgPJ6g==",
+  "Org": "ccf9c8c383ef0e99",
+  "Bucket": "jos-tijdelijk's Bucket",
+  "InfluxDB_URL": "https://us-central1-1.gcp.cloud2.influxdata.com",
+  "MQTT_IP": "localhost",
+  "MQTT_Port": 1883,
+  "Topic": "sensordata",
+  "GoogleIOT_PrivateKey": "/home/pi/rsa_private.pem",
+  "GoogleIOT_CertPath": "/home/pi/roots.pem",
+  "GoogleIOT_ProjectID": "engaged-context-277613",
+  "GoogleIOT_Location": "europe-west1",
+  "GoogleIOT_RegistryId": "OfficeOfTheFuture",
+  "GoogleIOT_Algorithm": "RS256",
+  "Google_Login_ClientID": "628303124518-c5req52tve30htara9o2rl3383ogmi79.apps.googleusercontent.com",
+  "Google_Login_Secret": "mnWP-ykcO5LuRfr65Y661I5v",
+  "SendGrid_key": "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",
+  "BaseURL":"https://192.168.238.2.xip.io:5000",
+  "RedirectURL":"https://192.168.238.2.xip.io:5000/google/auth"
+}
